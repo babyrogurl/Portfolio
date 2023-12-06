@@ -21,9 +21,9 @@ delaySpeed: 2000
   return (
     <div className='h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden'>
         <BackgroundCircles/>
-        <img className='relative rounded-full h-32 w-32 mx-auto object-cover'
-         src='https://scontent.ftun8-1.fna.fbcdn.net/v/t1.15752-9/387323822_287183507532611_2723263655567056512_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=dLsmddEBfbIAX9fn7hI&_nc_ht=scontent.ftun8-1.fna&oh=03_AdR7_ShDjk9jhZrAxdoYRMVR0BIfRS08zd9W5NrVeeTZDw&oe=6553AE35'
-         alt='babygurl'
+        <img className='relative rounded-full w-56 h-56 mx-auto object-cover'
+            src='https://scontent.ftun8-1.fna.fbcdn.net/v/t1.15752-9/387327685_709544447887238_5528740918698649869_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=vaLyxofsOdwAX-paglN&_nc_ht=scontent.ftun8-1.fna&oh=03_AdSvMrj9a8jibcIacvrm9Ttx0EhU4L-4MimTfZoGWOw46w&oe=659704CC'
+            alt='babygurl'
          /> 
         <div className='z-20'>
           <h2 className='text-sm uppercase text-gray-500 pb-2 tracking-[15px]'>

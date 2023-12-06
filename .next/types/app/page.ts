@@ -1,4 +1,4 @@
-// File: /home/rania/Documents/New folder (3)/app/page.tsx
+// File: /home/rania/Documents/portfolioo/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

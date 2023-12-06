@@ -17,17 +17,15 @@ export default function About({}: Props) {
             }}
             whileInView={{opacity:1 , x:0}}
             viewport={{once:true}}
-            src='https://scontent.ftun8-1.fna.fbcdn.net/v/t1.15752-9/387566084_837555441428507_3665719138042634204_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=gp2h0_PT-ugAX9U8qjk&_nc_ht=scontent.ftun8-1.fna&oh=03_AdSKwle8_8X_gTid3N3l1W_f_xhvpq6VwbmEQVgFBXv_Gg&oe=6553C263'
-            className='-mb-20 md:md-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]'
-            />
+            src='https://scontent.ftun8-1.fna.fbcdn.net/v/t1.15752-9/387323822_287183507532611_2723263655567056512_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=C0Hrt2y2BSMAX9is-NG&_nc_ht=scontent.ftun8-1.fna&oh=03_AdS05dFVHdlXni3SrQL4cXTn0S2MRh1cZJI4YzUU6gxCuw&oe=6596EAB5'
+            className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:w-95 lg:w-[220px] lg:h-[300px] "/>
             <div className='space-y-10 px-0 md:px-10'>
                 <h4 className='text-4xl font-semibold'>
                     Here is a <span className='underline decoration-[#a73c90]/50'>little </span>{""}
                      background  :
                 </h4>
-                <p className='text-sm'>
-                As an IT engineering student I am passionately immersed in the dynamic world of technology. With an insatiable curiosity and a keen eye for problem-solving, I thrive on the challenges that this field presents. My coursework has equipped me with a robust foundation in computer science, programming languages, and system architecture, allowing me to approach complex issues with both technical prowess and creativity. </p>
-            </div>
+                <p className='text-m'>
+                Welcome to my portfolio! I'm an IT engineering student deeply passionate about technology. Fueled by curiosity and a knack for problem-solving, I thrive in the dynamic challenges of this field. My coursework has honed my skills in computer science, programming languages, and system architecture, empowering me to approach complex issues with technical prowess and creativity. Explore my portfolio to see how my passion and skills align with the ever-evolving landscape of IT.</p>            </div>
 
         </motion.div>
   )
