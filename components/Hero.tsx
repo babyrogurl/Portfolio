@@ -14,7 +14,8 @@ words: [
     "<ButLovesToCodeMore >",
 ] ,
 loop: true,
-delaySpeed: 2000
+delaySpeed: 2000,
+
 
 });
 

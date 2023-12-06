@@ -21,6 +21,7 @@ export default function Experience({ }: Props) {
   
   const [filteredData, setFilteredData] = useState<dataType[]>([]);
   const [data, setData] = useState<dataType[]>([]);
+  console.log(data)
 
   useEffect(() => {
     const fetchData = async () => {

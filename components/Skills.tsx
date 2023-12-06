@@ -15,6 +15,7 @@ type dataType = {
 
 function Skills({ }: Props) {
   const [data, setData] = useState<dataType[]>([]);
+  console.log(data)
   useEffect(() => {
     const fetchData = async () => {
       try {
